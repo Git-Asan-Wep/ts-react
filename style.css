@@ -1,0 +1,46 @@
+#section{
+    background: cadetblue;
+    padding: 50px 10px;
+}
+.select{
+    border: none;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+#header{
+    padding: 20px 0;
+    background: rgba(0, 0, 0, 0.89);
+
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.logo{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 40px;
+}
+.header-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-nav{
+    color: aqua;
+    display: flex;
+    align-items: center;
+}
+.header-nav a{
+    color: aqua;
+
+    font-size: 20px;
+    margin: 0 20px;
+}
+
+.burger{
+    margin: 7px 0;
+    width: 30px;
+    border: 1px solid white;
+}
+
